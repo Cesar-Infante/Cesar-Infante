@@ -1,10 +1,10 @@
 Hi ! 👋 My name is Cesar Infante
 =====================================================================================================================================
 
-Full-Stack Web Developer
-------------------------
+Full-Stack Software Engineer
+----------------------------
 
-Coming from a background in warehouse leadership, it has taught me discipline, achieving deadlines, and constant growth. My main approach is the 5 P's, "Proper Preparation Prevents Poor Performance". This approach ensures I put in the time to learn and come prepared and not surprised. Currently working towards getting my certificate in full-stack development from the University of California, Riverside coding Bootcamp with newly developed skills in JavaScript, CSS, React.js, and responsive web design; but my learning doesn't stop there! Being a software developer involves problem-solving, refining your tools, and collaborating with team members to achieve the end goal requiring me to always be prepared to take in new knowledge to help me grow in my career as a web developer.
+Coming from a background in warehouse leadership, it has taught me discipline, achieving deadlines, and constant growth. My main approach is the 5 P's, "Proper Preparation Prevents Poor Performance". This approach ensures I put in the time to learn and come prepared and not surprised. Currently working towards getting my certificate in full-stack development from the University of California, Riverside coding Bootcamp with newly developed skills in JavaScript, CSS, React.js, and responsive web design; but my learning doesn't stop there! Being a software developer involves problem-solving, refining your tools, and collaborating with team members to achieve the end goal requiring me to always be prepared to take in new knowledge to help me grow in my career as a Software Engineer
 
 * 🌍  I'm based in Riverside, Ca
 * 🖥️  See my portfolio at [MyPortfolio](http://cesar-infante.github.io/Personal-Portfolio/)
