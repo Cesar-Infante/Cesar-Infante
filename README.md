@@ -9,7 +9,7 @@ Coming from a background in warehouse leadership, teaching me discipline, achiev
 My main approach is the 5 P's, "Proper Preparation Prevents Poor Performance". This approach ensures I put in the time to learn and be prepared and not surprised.
 
 * 🌍  I'm based in Riverside, Ca
-* 🖥️  See my portfolio here [My-Portfolio](http://cesar-infante.github.io/Personal-Portfolio/)
+* 🖥️  See my portfolio here [My-Portfolio](https://cesarinfante-portfolio.netlify.app/)
 * ✉️  You can contact me at [cesar261110@gmail.com](mailto:cesar261110@gmail.com)
 * 🤝  I'm open to collaborating on projects that help build experience.
 
