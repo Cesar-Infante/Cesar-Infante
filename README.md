@@ -4,7 +4,7 @@ Hi ! 👋 My name is Cesar Infante
 Full-Stack Software Engineer
 ----------------------------
 
-Coming from a background in warehouse leadership, teaching me discipline, achieving deadlines, and constant growth.
+Software engineer leveraging a background in warehouse leadership teaching me discipline, achieving deadlines, and pursuing continuous growth, making me a strong addition to any engineering team.
 
 My main approach is the 5 P's, "Proper Preparation Prevents Poor Performance". This approach ensures I put in the time to learn and be prepared and not surprised.
 
