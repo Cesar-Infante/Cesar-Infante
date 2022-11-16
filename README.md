@@ -4,7 +4,9 @@ Hi 👋 My name is Cesar Infante
 Full-Stack Software Engineer
 ----------------------------
 
-Software engineer leveraging a background in warehouse leadership teaching me discipline, achieving deadlines, and pursuing continuous growth, making me a strong addition to any engineering team. My main approach is the 5 P's, "Proper Preparation Prevents Poor Performance". This approach ensures I put in the time to learn and be prepared and not surprised.
+Software engineer leveraging a background in warehouse leadership teaching me discipline, achieving deadlines, and pursuing continuous growth, making me a strong addition to any engineering team. 
+
+My main approach is the 5 P's, "Proper Preparation Prevents Poor Performance." A prudent reminder that one must prepare well to ensure that results are directly related to preparation, which is what I provide.
 
 * 🌍  I'm based in Riverside, Ca
 * 🖥️  See my portfolio at [My-Portfolio](https://cesarinfante-portfolio.netlify.app/)
