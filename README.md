@@ -1,4 +1,4 @@
-Hi 👋 My name is Cesar Infante
+Hi 👋 My name is Cesar
 ==============================
 
 Full-Stack Software Engineer
@@ -8,9 +8,6 @@ Software engineer leveraging a background in warehouse leadership teaching me di
 
 My main approach is the 5 P's, "Proper Preparation Prevents Poor Performance." A prudent reminder that one must prepare well to ensure that results are directly related to preparation, which is what I provide.
 
-* 🌍  I'm based in Riverside, Ca
-* 🖥️  See my portfolio at [My-Portfolio](https://cesarinfante-portfolio.netlify.app/)
-* ✉️  You can contact me at [cesar261110@gmail.com](mailto:cesar261110@gmail.com)
 * 🤝  I'm open to collaborating on projects that help build experience.
 
 ### Skills
